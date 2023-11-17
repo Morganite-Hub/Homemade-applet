@@ -1,1 +1,7 @@
+This program is used to copy words from PDF documents without any extra Space or Enter. Future, it will be added some functions like translate, encode, decode and so on. 
+
+
+
+
+
 
